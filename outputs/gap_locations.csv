@@ -1,0 +1,409 @@
+,State,City,Location,Store Type,Address,Endpoint
+0,Alabama,Foley,FOLEY (RIVIERA),Gap Factory Store,"2601 South Mckenzie Street Ste G-1,Foley, AL 36535",https://www.gap.com/stores/al/foley/
+1,Alaska,Anchorage,DIMOND S/C,"Gap,babyGap,GapKids,GapBody","800 East Dimond Blvd Suite #187,Anchorage, AK 99515",https://www.gap.com/stores/ak/anchorage/
+2,Arizona,Chandler,PHOENIX PREMIUM,Gap Factory Store,"4976 Premium Outlets Way Suite 610,Chandler, AZ 85226",https://www.gap.com/stores/az/chandler/
+3,Arizona,Glendale,WESTGATE TANGER OUT,Gap Factory Store,"6800 N 95 Ave Suite 600,Glendale, AZ 85305",https://www.gap.com/stores/az/glendale/
+4,Arizona,Phoenix,Outlt North Phoenix,Gap Factory Store,"4250 W Anthem Way Ste 385,Phoenix, AZ 85086-7693",https://www.gap.com/stores/az/phoenix/
+5,Arizona,Scottsdale,Scottsdale Quarter,"Gap,GapKids,GapBody","15279 N Scottsdale Road Ste B110,Scottsdale, AZ 85254",https://www.gap.com/stores/az/scottsdale/
+6,Arizona,Scottsdale,SCOTTSDALE QUARTER,"Gap,GapKids","15279 N Scottsdale Road Ste B105,Scottsdale, AZ 85254",https://www.gap.com/stores/az/scottsdale/
+7,Arizona,Tempe,ARIZONA MILLS,Gap Factory Store,"5000 S Arizona Mills Cir Ste 274,Tempe, AZ 85282-6421",https://www.gap.com/stores/az/tempe/
+8,Arizona,Tucson,TUCSON PREMIUM OUTLT,Gap Factory Store,"6401 W Marana Center Blvd Ste 536,Tucson, AZ 85742",https://www.gap.com/stores/az/tucson/
+9,Arkansas,Little Rock,OUTLS of Little Rock,Gap Factory Store,"11201 Bass Pro Parkway #g M171,Little Rock, AR 72210",https://www.gap.com/stores/ar/littlerock/
+10,Arkansas,Rogers,PINNACLE HILLS PRM,"Gap,babyGap,GapKids,GapBody","2203 S Promenade Blvd ,Rogers, AR 72758",https://www.gap.com/stores/ar/rogers/
+11,California,Alpine,VIEJAS FACTORY OUTLE,Gap Factory Store,"5003 Willows Road Ste G106,Alpine, CA 91901",https://www.gap.com/stores/ca/alpine/
+12,California,Arcadia,SANTA ANITA F/P,"Gap,babyGap,GapKids","400 S Baldwin Ave Ste 179,Arcadia, CA 91007",https://www.gap.com/stores/ca/arcadia/
+13,California,Burbank,301 N. SAN FERNANDO,Gap Factory Store,"301 N. San Fernando Blvd. ,Burbank, CA 91502",https://www.gap.com/stores/ca/burbank/
+14,California,Cabazon,DESERT HILLS PREMIUM,Gap Factory Store,"48400 Seminole Drive Space #400,Cabazon, CA 92230",https://www.gap.com/stores/ca/cabazon/
+15,California,Calexico,GRAN PLAZA,Gap Factory Store,"888 W. Second St. Suite F-180,Calexico, CA 92231",https://www.gap.com/stores/ca/calexico/
+16,California,Camarillo,CAMARILLO PREMIUM,Gap Factory Store,"540 Ventura Blvd Suite 1368,Camarillo, CA 93010",https://www.gap.com/stores/ca/camarillo/
+17,California,Canoga Park,TOPANGA PLAZA,"Gap,babyGap,GapKids","6600 Topanga Canyon Blvd Space 43a,Canoga Park, CA 91303",https://www.gap.com/stores/ca/canogapark/
+18,California,Carlsbad,CARLSBAD PREMIUM,Gap Factory Store,"5620 Paseo Del Norte Suite 102,Carlsbad, CA 92008",https://www.gap.com/stores/ca/carlsbad/
+19,California,Cerritos,LOS CERRITOS CNTR,"Gap,babyGap,GapKids,GapBody","220 Los Cerritos Mall A-27,Cerritos, CA 90703",https://www.gap.com/stores/ca/cerritos/
+20,California,Commerce,CITADEL OUTLETS,Gap Factory Store,"100 Citadel Drive Ste #591,Commerce, CA 90040",https://www.gap.com/stores/ca/commerce/
+21,California,Concord,VERANDA (THE),Gap Factory Store,"2075 Diamond Blvd Space H-160,Concord, CA 94520",https://www.gap.com/stores/ca/concord/
+22,California,Corte Madera,VILLAGE CORTE MADERA,"Gap,babyGap,GapKids,GapBody","1554 Redwood Highway C-1,Corte Madera, CA 94925-1224",https://www.gap.com/stores/ca/cortemadera/
+23,California,Costa Mesa,SOUTH COAST PLAZA,"Gap,babyGap,GapKids","3333 Bristol St Ste 1862,Costa Mesa, CA 92626-1811",https://www.gap.com/stores/ca/costamesa/
+24,California,Encinitas,ENCINITAS VILLAGE,"Gap,babyGap,GapKids,GapBody","115 N. El Camino Real Ste 117,Encinitas, CA 92024",https://www.gap.com/stores/ca/encinitas/
+25,California,Folsom,FOLSOM PREMIUM,Gap Factory Store,"13000 Folsom Blvd Suite 1320,Folsom, CA 95630",https://www.gap.com/stores/ca/folsom/
+26,California,Fresno,OCEANX FDC,,"3685 North Gap Drive ,Fresno, CA 93727",https://www.gap.com/stores/ca/fresno/
+27,California,Gilroy,GILROY PREMIUM,Gap Factory Store,"8555 San Ysidro Ave Ste F10,Gilroy, CA 95020",https://www.gap.com/stores/ca/gilroy/
+28,California,Glendale,Glendale Galleria-CA,"Gap,babyGap,GapKids,GapBody","2122 Glendale Galleria Space 1161,Glendale, CA 91210-1301",https://www.gap.com/stores/ca/glendale/
+29,California,Huntington Beach,5 POINTS PLAZA,"Gap,babyGap,GapKids,GapBody","18681 Main Street #c,Huntington Beach, CA 92648",https://www.gap.com/stores/ca/huntingtonbeach/
+30,California,Inglewood,VILLAGE AT CENTURY,Gap Factory Store,"3480 West Century Blvd ,Inglewood, CA 90303",https://www.gap.com/stores/ca/inglewood/
+31,California,Lake Elsinore,LAKE ELSINORE,Gap Factory Store,"17600 Collier Avenue D086 & D087,Lake Elsinore, CA 92530",https://www.gap.com/stores/ca/lakeelsinore/
+32,California,Livermore,SF PREMIUM OUTLETS,Gap Factory Store,"3002 Livermore Outlets Drive Space # 300,Livermore, CA 94551",https://www.gap.com/stores/ca/livermore/
+33,California,Long Beach,THE PIKE OUTLETS,Gap Factory Store,"55 Bay St Unit 590,Long Beach, CA 90802",https://www.gap.com/stores/ca/longbeach/
+34,California,Los Angeles,CENTURY CITY,"Gap,babyGap,GapKids,GapBody","10250 Santa Monica Blvd B-14,Los Angeles, CA 90067-6501",https://www.gap.com/stores/ca/losangeles/
+35,California,Los Angeles,GROVE AT FARMERS MKT,"Gap,babyGap,GapKids,GapBody","189 The Grove Drive H80,Los Angeles, CA 90036-6225",https://www.gap.com/stores/ca/losangeles/
+36,California,Manhattan Beach,MANHATTAN VILLAGE,"Gap,babyGap,GapKids,GapBody","3200 N Sepulveda Blvd E-10,Manhattan Beach, CA 90266",https://www.gap.com/stores/ca/manhattanbeach/
+37,California,Milpitas,Great Mall/Bay Area,Gap Factory Store,"447 Great Mall Drive Suite 271,Milpitas, CA 95035",https://www.gap.com/stores/ca/milpitas/
+38,California,Mission Viejo,MISSION VIEJO MALL,"Gap,babyGap,GapKids,GapBody","234 The Shops At Mission Viejo 234,Mission Viejo, CA 92691",https://www.gap.com/stores/ca/missionviejo/
+39,California,Monterey,Del Monte S/C,"Gap,babyGap,GapKids,GapBody","1410 Del Monte Center Store 615,Monterey, CA 93940",https://www.gap.com/stores/ca/monterey/
+40,California,Napa,NAPA PREMIUM OUTLETS,Gap Factory Store,"629 Factory Stores Drive ,Napa, CA 94558",https://www.gap.com/stores/ca/napa/
+41,California,Newport Coast,Crystal Cove,"Gap,babyGap,GapKids,GapBody","8012 East Coast Hwy B203,Newport Coast, CA 92657-2121",https://www.gap.com/stores/ca/newportcoast/
+42,California,Novato,VINTAGE OAKS,Gap Factory Store,"208 Vintage Way Ste K15,Novato, CA 94945",https://www.gap.com/stores/ca/novato/
+43,California,Oakland,LAKESHORE AV-OAKLAND,"Gap,babyGap,GapKids","3277 Lakeshore Avenue ,Oakland, CA 94610-2719",https://www.gap.com/stores/ca/oakland/
+44,California,Ontario,Ontario Mills,Gap Factory Store,"1 Mills Circle Space 834,Ontario, CA 91764",https://www.gap.com/stores/ca/ontario/
+45,California,Orange,OUTLETS AT ORANGE,Gap Factory Store,"20 City Boulevard Space 1560,Orange, CA 92868",https://www.gap.com/stores/ca/orange/
+46,California,Palo Alto,STANFORD,"Gap,babyGap,GapKids,GapBody","165 Stanford Shopping Ctr 165,Palo Alto, CA 94304-1409",https://www.gap.com/stores/ca/paloalto/
+47,California,Petaluma,PETALUMA VILLAGE,Gap Factory Store,"2200 Petaluma Blvd. North Space #300,Petaluma, CA 94952",https://www.gap.com/stores/ca/petaluma/
+48,California,Redlands,MOUNTAIN GROVE,Gap Factory Store,"27461 San Bernardino Ave Suite 130,Redlands, CA 92374",https://www.gap.com/stores/ca/redlands/
+49,California,Roseville,ROSEVILLE GALLERIA,"Gap,babyGap,GapKids","1151 Galleria Blvd Ste 246,Roseville, CA 95678",https://www.gap.com/stores/ca/roseville/
+50,California,San Diego,UNIVERSITY T/C - CA,"Gap,babyGap,GapKids,GapBody","4505 La Jolla Village Dr C-9,San Diego, CA 92122-1297",https://www.gap.com/stores/ca/sandiego/
+51,California,San Francisco,CHESTNUT ST - SF,"Gap,babyGap,GapKids","2159 Chestnut Street ,San Francisco, CA 94123-2708",https://www.gap.com/stores/ca/sanfrancisco/
+52,California,San Francisco,Gap at 2 Folsom,Gap,"2 Folsom Street ,San Francisco, CA 94105",https://www.gap.com/stores/ca/sanfrancisco/
+53,California,San Jose,WESTGATE MALL,Gap Factory Store,"1600 Saratoga Ave ,San Jose, CA 95129",https://www.gap.com/stores/ca/sanjose/
+54,California,San Leandro,MARINA SQUARE,Gap Factory Store,"1259 Marina Blvd. ,San Leandro, CA 94577-3322",https://www.gap.com/stores/ca/sanleandro/
+55,California,San Mateo,HILLSDALE,"Gap,babyGap,GapKids,GapBody","437 Hillsdale Mall Ste #2148,San Mateo, CA 94403-3404",https://www.gap.com/stores/ca/sanmateo/
+56,California,Santa Barbara,PASEO NUEVO,"Gap,babyGap,GapKids,GapBody","615 Paseo Nuevo ,Santa Barbara, CA 93101-3388",https://www.gap.com/stores/ca/santabarbara/
+57,California,Santa Clara,VALLEY FAIR - CA,"1969,Gap,babyGap,GapKids,GapBody","2855 Stevens Creek Blvd Ste 1015,Santa Clara, CA 95050-6709",https://www.gap.com/stores/ca/santaclara/
+58,California,Santa Cruz,PACIFIC AV-SNTA CRUZ,"Gap,babyGap,GapKids,GapBody","1225 Pacific Avenue ,Santa Cruz, CA 95060-3914",https://www.gap.com/stores/ca/santacruz/
+59,California,Santa Monica,WILSHIRE BL-S MONICA,"Gap,babyGap,GapKids,GapBody","1931 Wilshire Blvd ,Santa Monica, CA 90403-5605",https://www.gap.com/stores/ca/santamonica/
+60,California,San Ysidro,LAS AMERICAS,Gap Factory Store,"4265 Camino De La Plaza Building I - Space 220,San Ysidro, CA 92173",https://www.gap.com/stores/ca/sanysidro/
+61,California,Sherman Oaks,Sherman Oaks Fash Sq,"Gap,GapBody","14006 Riverside Drive 215, 216, 218,Sherman Oaks, CA 91423-1918",https://www.gap.com/stores/ca/shermanoaks/
+62,California,Sherman Oaks,SHERMAN OAKS FASH SQ,"Gap,GapKids","14006 Riverside Dr Ste 90,Sherman Oaks, CA 91423",https://www.gap.com/stores/ca/shermanoaks/
+63,California,Tejon Ranch,Outlet @ Tejon Ranch,Gap Factory Store,"5701 Outlets At Tejon Parkway Suite 800,Tejon Ranch, CA 93203",https://www.gap.com/stores/ca/tejonranch/
+64,California,Torrance,DEL AMO FASHION CNTR,"Gap,babyGap,GapKids,GapBody","3525 Carson Street Ste #67,Torrance, CA 90503",https://www.gap.com/stores/ca/torrance/
+65,California,Tulare,TULARE OUTLET CENTER,Gap Factory Store,"1501 Retherford St Ste C10,Tulare, CA 93274",https://www.gap.com/stores/ca/tulare/
+66,California,Vacaville,VACAVILLE PREMIUM,Gap Factory Store,"121-a Nut Tree Road ,Vacaville, CA 95687",https://www.gap.com/stores/ca/vacaville/
+67,California,Van Nuys,Plant (The),Gap Factory Store,"7872 Van Nuys Blvd ,Van Nuys, CA 91402",https://www.gap.com/stores/ca/vannuys/
+68,Colorado,Broomfield,FLATIRON CROSSING,"Gap,babyGap,GapKids,GapBody","1 W Flatiron Circle #1078,Broomfield, CO 80021",https://www.gap.com/stores/co/broomfield/
+69,Colorado,Castle Rock,OUTLETS CASTLE ROCK,Gap Factory Store,"5050 Factory Shops Blvd Ste 1055,Castle Rock, CO 80108",https://www.gap.com/stores/co/castlerock/
+70,Colorado,Denver,CHERRY CREEK,"Gap,babyGap,GapKids,GapBody","3000 E 1st Avenue C292,Denver, CO 80206",https://www.gap.com/stores/co/denver/
+71,Colorado,Lakewood,COLORADO MILLS,Gap Factory Store,"14500 W Colfax Ave Space 214,Lakewood, CO 80401-3228",https://www.gap.com/stores/co/lakewood/
+72,Colorado,Silverthorne,SILVERTHORNE,Gap Factory Store,"125-c Stephens Way A022,Silverthorne, CO 80498",https://www.gap.com/stores/co/silverthorne/
+73,Colorado,Thornton,DENVER PREMIUM,Gap Factory Store,"13801 Grant Street Suite 290,Thornton, CO 80023",https://www.gap.com/stores/co/thornton/
+74,Connecticut,Avon,AVON MARKETPLACE,"Gap,babyGap,GapKids,GapBody","380 West Main Street ,Avon, CT 06001",https://www.gap.com/stores/ct/avon/
+75,Connecticut,Clinton,CLINTON CROSSING,Gap Factory Store,"20-a Killingsworth Turnpike Space 220,Clinton, CT 06413",https://www.gap.com/stores/ct/clinton/
+76,Connecticut,Danbury,DANBURY FAIR,"Gap,babyGap,GapKids,GapBody","7 Backus Ave Ste H-106,Danbury, CT 06810-7427",https://www.gap.com/stores/ct/danbury/
+77,Connecticut,Fairfield,BLACK ROCK S/C,"Gap,GapKids,GapBody","2215 Black Rock Tpke ,Fairfield, CT 06825",https://www.gap.com/stores/ct/fairfield/
+78,Connecticut,Hamden,Hamden Village Fair,Gap Factory Store,"2165 Dixwell Avenue ,Hamden, CT 06514",https://www.gap.com/stores/ct/hamden/
+79,Connecticut,Mashantucket,FOXWOODS DESIGNER,Gap Factory Store,"455 Trolley Line Blvd Suite 350,Mashantucket, CT 06338",https://www.gap.com/stores/ct/mashantucket/
+80,Connecticut,Southbury,SOUTHBURY GREEN,"Gap,GapKids,GapBody","775 Main Street South Bldg A,Southbury, CT 06488-2271",https://www.gap.com/stores/ct/southbury/
+81,Connecticut,West Hartford,WESTFARMS,"Gap,babyGap,GapKids,GapBody","1500 New Britain Ave Space F-110,West Hartford, CT 06110",https://www.gap.com/stores/ct/westhartford/
+82,Connecticut,Westport,MAIN ST - WESTPORT,"Gap,babyGap,GapKids,GapBody","125 Main Street ,Westport, CT 06880-3300",https://www.gap.com/stores/ct/westport/
+83,Delaware,Newark,CHRISTIANA,"Gap,babyGap,GapKids","458 Christiana Mall ,Newark, DE 19702",https://www.gap.com/stores/de/newark/
+84,Delaware,Rehoboth Beach,REHOBOTH TANGER,Gap Factory Store,"36461 Seaside Outlet Dr Space 1900,Rehoboth Beach, DE 19971-1719",https://www.gap.com/stores/de/rehobothbeach/
+85,Florida,Aventura,Aventura,"Gap,babyGap,GapKids,GapBody","19575 Biscayne Blvd. Space #455,Aventura, FL 33180",https://www.gap.com/stores/fl/aventura/
+86,Florida,Daytona Beach,DAYTONA BEACH TANGER,Gap Factory Store,"1100 Cornerstone Blvd Suite #400,Daytona Beach, FL 32117",https://www.gap.com/stores/fl/daytonabeach/
+87,Florida,Destin,SILVER SANDS,Gap Factory Store,"10676 Emerald Coast Parkway W Ste 141,Destin, FL 32550-7116",https://www.gap.com/stores/fl/destin/
+88,Florida,Ellenton,ELLENTON PREMIUM,Gap Factory Store,"5141 Factory Shops Blvd Space #675,Ellenton, FL 34222",https://www.gap.com/stores/fl/ellenton/
+89,Florida,Estero,MIROMAR OUTLETS,Gap Factory Store,"10801 Corkscrew Road 423,Estero, FL 33928-9430",https://www.gap.com/stores/fl/estero/
+90,Florida,Florida City,FLORIDA CITY,Gap Factory Store,"250 East Palm Drive Ste 173,Florida City, FL 33034",https://www.gap.com/stores/fl/floridacity/
+91,Florida,Key West,DUVAL STREET,Gap Factory Store,"526-528 Duval Street ,Key West, FL 33040",https://www.gap.com/stores/fl/keywest/
+92,Florida,Lutz,TAMPA PREMIUM,Gap Factory Store,"2300 Grand Cypress Drive Suite 105,Lutz, FL 33559",https://www.gap.com/stores/fl/lutz/
+93,Florida,Miami,KENDALL VILLAGE CNTR,Gap Factory Store,"8705 Sw 124th Ave ,Miami, FL 33183",https://www.gap.com/stores/fl/miami/
+94,Florida,Miami,DOLPHIN MALL,Gap Factory Store,"11401 12th Street ,Miami, FL 33172",https://www.gap.com/stores/fl/miami/
+95,Florida,Miami,DADELAND,"Gap,babyGap,GapKids,GapBody","7271 N Kendall Road Ste #3240,Miami, FL 33156-7853",https://www.gap.com/stores/fl/miami/
+96,Florida,Miami Beach,LINCOLN RD-MIAMI BEA,"Gap,babyGap,GapKids,GapBody","1001 Lincoln Road ,Miami Beach, FL 33139",https://www.gap.com/stores/fl/miamibeach/
+97,Florida,Orlando,ORLANDO VINELAND PRE,Gap Factory Store,"8225 Vineland Ave Blding 20, Suite#2001,Orlando, FL 32821",https://www.gap.com/stores/fl/orlando/
+98,Florida,Orlando,LAKE BUENA VISTA,Gap Factory Store,"15807 S. Apopka Vineland Road ,Orlando, FL 32821",https://www.gap.com/stores/fl/orlando/
+99,Florida,Orlando,FLORIDA,"Gap,babyGap,GapKids,GapBody","8001 South Orange Blossom Trail Ste 598a,Orlando, FL 32809",https://www.gap.com/stores/fl/orlando/
+100,Florida,Orlando,MALL@ MILLENIA,"Gap,babyGap,GapKids,GapBody","4200 Conroy Rd H214,Orlando, FL 32839",https://www.gap.com/stores/fl/orlando/
+101,Florida,Orlando,ORLANDO (VIN)PREMIUM,Gap Factory Store,"8228 Vineland Ave Ste Ll01,Orlando, FL 32821",https://www.gap.com/stores/fl/orlando/
+102,Florida,Orlando,ORLANDO (INT)PREMIUM,Gap Factory Store,"4969 International Drive Suite 3e05,Orlando, FL 32819",https://www.gap.com/stores/fl/orlando/
+103,Florida,Sarasota,MALL @ UNIVERSITY TC,"Gap,babyGap,GapKids,GapBody","140 University Towne Center Drive Suite 182,Sarasota, FL 34243",https://www.gap.com/stores/fl/sarasota/
+104,Florida,St Augustine,ST AUGUSTINE PREMIUM,Gap Factory Store,"2700 State Road 16 Ste 101,St Augustine, FL 32092-0764",https://www.gap.com/stores/fl/staugustine/
+105,Florida,Sunrise,SAWGRASS MILLS,Gap Factory Store,"12801 W Sunrise Blvd Ste #437,Sunrise, FL 33323",https://www.gap.com/stores/fl/sunrise/
+106,Florida,Tampa,INTERNATIONAL PLAZA,"Gap,babyGap,GapKids,GapBody","2223 N. West Shore Blvd Ste 142,Tampa, FL 33607",https://www.gap.com/stores/fl/tampa/
+107,Florida,Vero Beach,VERO BEACH,Gap Factory Store,"1769 94th Drive ,Vero Beach, FL 32966",https://www.gap.com/stores/fl/verobeach/
+108,Florida,West Palm Beach,Tanger Palm Beach,Gap Factory Store,"1755 Palm Beach Lakes Blvd E101,West Palm Beach, FL 33401",https://www.gap.com/stores/fl/westpalmbeach/
+109,Georgia,Alpharetta,AVALON,"Gap,GapKids,GapBody","2150 Avalon Blvd ,Alpharetta, GA 30009",https://www.gap.com/stores/ga/alpharetta/
+110,Georgia,Atlanta,PERIMETER,"Gap,babyGap,GapKids,GapBody","4400 Ashford Dunwoody Road Ne Ste #2224,Atlanta, GA 30346",https://www.gap.com/stores/ga/atlanta/
+111,Georgia,Atlanta,LENOX SQUARE,"Gap,babyGap,GapKids,GapBody","3393 Peachtree Road Ne Suite 4048a,Atlanta, GA 30326-1109",https://www.gap.com/stores/ga/atlanta/
+112,Georgia,Buford,MALL OF GEORGIA,"Gap,GapKids,GapBody","3333 Buford Drive Space #1090,Buford, GA 30519",https://www.gap.com/stores/ga/buford/
+113,Georgia,Columbus,COLUMBUS PK CROSSING,Gap Factory Store,"5555 Whittlesey Blvd Suite 2550,Columbus, GA 31909",https://www.gap.com/stores/ga/columbus/
+114,Georgia,Commerce,COMMERCE TANGER,Gap Factory Store,"800 Steven B Tanger Blvd Suite 209,Commerce, GA 30529",https://www.gap.com/stores/ga/commerce/
+115,Georgia,Dawsonville,N GEORGIA PREMIUM,Gap Factory Store,"800 Highway 400 South 300,Dawsonville, GA 30534",https://www.gap.com/stores/ga/dawsonville/
+116,Georgia,Locust Grove,LOCUST GROVE TANGER,Gap Factory Store,"1000 Tanger Drive Ste. 208, 209,210,Locust Grove, GA 30248",https://www.gap.com/stores/ga/locustgrove/
+117,Georgia,Marietta,AVENUE AT EAST COBB,"Gap,babyGap,GapKids,GapBody","4475 Roswell Road Ste 500,Marietta, GA 30062",https://www.gap.com/stores/ga/marietta/
+118,Georgia,Pooler,TANGER OUT SAVANNAH,Gap Factory Store,"200 Tanger Outlet Blvd Suite 511,Pooler, GA 31322",https://www.gap.com/stores/ga/pooler/
+119,Georgia,Savannah,Kress Building,Gap Factory Store,"122 W Broughton St ,Savannah, GA 31401",https://www.gap.com/stores/ga/savannah/
+120,Georgia,Woodstock,OUTLT SHOP @ ATLANTA,Gap Factory Store,"915 Ridgewalk Pky ,Woodstock, GA 30188",https://www.gap.com/stores/ga/woodstock/
+121,Hawaii,Honolulu,ALA MOANA,"Gap,GapKids,GapBody","1450 Ala Moana Blvd Ste 2038,Honolulu, HI 96814-4616",https://www.gap.com/stores/hi/honolulu/
+122,Hawaii,Lahaina,OUTLETS AT MAUI,Gap Factory Store,"900 Front Street Space G2,Lahaina, HI 96761",https://www.gap.com/stores/hi/lahaina/
+123,Hawaii,Waipahu,WAIKELE CENTER,Gap Factory Store,"94-821 Lumiaina Street Ste. 6,Waipahu, HI 96797",https://www.gap.com/stores/hi/waipahu/
+124,Idaho,Boise,Boise T/SQ,Gap Factory Store,"350 N Milwaukee St #1306,Boise, ID 83704",https://www.gap.com/stores/id/boise/
+125,Idaho,Meridian,Village at Meridian,Gap Factory Store,"2130 N. Eagle Rd ,Meridian, ID 83646",https://www.gap.com/stores/id/meridian/
+126,Illinois,Aurora,Chicago Premium,Gap Factory Store,"1650 Premium Outlets Blvd Ste 501,Aurora, IL 60502",https://www.gap.com/stores/il/aurora/
+127,Illinois,Aurora,Chicago Premium,Gap Factory Store,"1650 Premium Outlets Blvd Ste 401,Aurora, IL 60502",https://www.gap.com/stores/il/aurora/
+128,Illinois,Berwyn,CERMAK PLAZA,Gap Factory Store,"7147 Cermak Road ,Berwyn, IL 60402",https://www.gap.com/stores/il/berwyn/
+129,Illinois,Chicago,3416 N. SOUTHPORT,"Gap,babyGap,GapKids,GapBody","3416 N Southport Avenue ,Chicago, IL 60657",https://www.gap.com/stores/il/chicago/
+130,Illinois,Chicago,MLWAUKEE/DVRSEY-CHIC,Gap Factory Store,"2778 N Milwaukee Avenue ,Chicago, IL 60647",https://www.gap.com/stores/il/chicago/
+131,Illinois,Deer Park,DEER PARK,"Gap,babyGap,GapKids,GapBody","20530 N Rand Rd Space 140,Deer Park, IL 60010-7242",https://www.gap.com/stores/il/deerpark/
+132,Illinois,Geneva,GENEVA COMMONS,"Gap,GapKids,GapBody","214 Commons Dr Space 2020,Geneva, IL 60134-2522",https://www.gap.com/stores/il/geneva/
+133,Illinois,Northbrook,NORTHBROOK COURT,"Gap,babyGap,GapKids","1324 Northbrook Ct ,Northbrook, IL 60062",https://www.gap.com/stores/il/northbrook/
+134,Illinois,Oak Brook,OAKBROOK CENTER,"Gap,babyGap,GapKids,GapBody","432 Oakbrook Center ,Oak Brook, IL 60523",https://www.gap.com/stores/il/oakbrook/
+135,Illinois,Orland Park,ORLAND SQUARE,"Gap,babyGap,GapKids,GapBody","460 Orland Square Drive ,Orland Park, IL 60462-3215",https://www.gap.com/stores/il/orlandpark/
+136,Illinois,Rosemont,FASHION OUT OF CHI,Gap Factory Store,"5220 Rose Street Space 1245,Rosemont, IL 60018",https://www.gap.com/stores/il/rosemont/
+137,Illinois,Schaumburg,WOODFIELD,"Gap,GapBody","5 Woodfield Mall Ste E123,Schaumburg, IL 60173-5012",https://www.gap.com/stores/il/schaumburg/
+138,Indiana,Edinburgh,INDIANA PREMIUM,Gap Factory Store,"11606 N/e Executive Drive ,Edinburgh, IN 46124",https://www.gap.com/stores/in/edinburgh/
+139,Indiana,Indianapolis,FASHION MALL@KEYSTNE,"Gap,babyGap,GapKids","8702 Keystone Crossing Space 30a,Indianapolis, IN 46240",https://www.gap.com/stores/in/indianapolis/
+140,Indiana,Michigan City,LIGHTHOUSE PLACE,Gap Factory Store,"1770 Lighthouse Pl ,Michigan City, IN 46360",https://www.gap.com/stores/in/michigancity/
+141,Iowa,West Des Moines,JORDAN CREEK T/C,"Gap,babyGap,GapKids,GapBody","101 Jordan Creek Pkwy Ste 12072,West Des Moines, IA 50266-8115",https://www.gap.com/stores/ia/westdesmoines/
+142,Iowa,Williamsburg,Outlets Williamsburg,Gap Factory Store,"245 Tanger Dr Space 245,Williamsburg, IA 52361-9657",https://www.gap.com/stores/ia/williamsburg/
+143,Kansas,Kansas City,KANSAS CITY LEGENDS,Gap Factory Store,"1829 Villge West Parkway Suite T-121,Kansas City, KS 66111",https://www.gap.com/stores/ks/kansascity/
+144,Kansas,Leawood,TOWN CENTER PLAZA,"Gap,babyGap,GapKids,GapBody","4860 W. 119th Street Space #620,Leawood, KS 66209",https://www.gap.com/stores/ks/leawood/
+145,Kansas,Wichita,BRADLEY FAIR,"Gap,babyGap,GapKids","2110 N Rock Road ,Wichita, KS 67206",https://www.gap.com/stores/ks/wichita/
+146,Kentucky,Hebron,ERLANGER CLEARANCE,Gap Factory Store,"2050 Global Way 2050,Hebron, KY 41048",https://www.gap.com/stores/ky/hebron/
+147,Kentucky,Lexington,FAYETTE,"Gap,babyGap,GapKids,GapBody","3401 Nicholasville Road Ste A-100,Lexington, KY 40503",https://www.gap.com/stores/ky/lexington/
+148,Kentucky,Louisville,PADDOCK SHOPS,"Gap,babyGap,GapKids,GapBody","4160 Summit Plaza Dr A1,Louisville, KY 40241-8104",https://www.gap.com/stores/ky/louisville/
+149,Kentucky,Simpsonville,OUTLET OF BLUEGRASS,Gap Factory Store,"1155 Buck Creek Road Suite 526,Simpsonville, KY 40067",https://www.gap.com/stores/ky/simpsonville/
+150,Louisiana,Baton Rouge,T/C @ CEDAR LODGE,"Gap,babyGap,GapKids,GapBody","7455 Corporate Blvd ,Baton Rouge, LA 70809",https://www.gap.com/stores/la/batonrouge/
+151,Louisiana,Gonzales,GONZALES TANGER,Gap Factory Store,"2200 Tanger Blvd Space #147/148/149,Gonzales, LA 70737",https://www.gap.com/stores/la/gonzales/
+152,Louisiana,Mandeville,PREMIER CENTRE,"Gap,GapKids,GapBody","3414 Hwy 190 Space 6, 8,Mandeville, LA 70471",https://www.gap.com/stores/la/mandeville/
+153,Louisiana,Metaire,LAKESIDE - KIDS & BABY,"Gap,babyGap,GapKids","3301 Veterans Memorial Boulevard Ste 86a,Metaire, LA 70002",https://www.gap.com/stores/la/metaire/
+154,Louisiana,Metairie,LAKESIDE - ADULT,"Gap,GapKids,GapBody","3301 Veterans Memorial Blvd. Suite 46,Metairie, LA 70002",https://www.gap.com/stores/la/metairie/
+155,Louisiana,New Orleans,COLLECTION@RIVERWALK,Gap Factory Store,"1 Poydras St ,New Orleans, LA 70130",https://www.gap.com/stores/la/neworleans/
+156,Maine,Freeport,MAIN ST - FREEPORT,Gap Factory Store,"35 Main Street ,Freeport, ME 04032-1210",https://www.gap.com/stores/me/freeport/
+157,Maine,Kittery,KITTERY PREMIUM,Gap Factory Store,"325 Us Route 1 Ste 12,Kittery, ME 03904",https://www.gap.com/stores/me/kittery/
+158,Maryland,Annapolis,ANNAPOLIS HARBOUR,"1969,Gap,babyGap,GapKids,GapBody","2536 Solomons Island Road Space D4,Annapolis, MD 21401",https://www.gap.com/stores/md/annapolis/
+159,Maryland,Bethesda,MONTGOMERY - MD,"1969,Gap,GapKids","7101 Democracy Blvd. 2486,Bethesda, MD 20817",https://www.gap.com/stores/md/bethesda/
+160,Maryland,Chevy Chase,WISCONSIN/CHEVY CHAS,"Gap,GapKids,GapBody","5430 Wisconsin Ave ,Chevy Chase, MD 20815",https://www.gap.com/stores/md/chevychase/
+161,Maryland,Clarksburg,CLARKSBURG PREMIUM,Gap Factory Store,"22705 Clarksburg Road Suite 644,Clarksburg, MD 20871",https://www.gap.com/stores/md/clarksburg/
+162,Maryland,Hagerstown,HAGERSTOWN PREMIUM,Gap Factory Store,"100 Premium Outlets Blvd Suite #100,Hagerstown, MD 21740",https://www.gap.com/stores/md/hagerstown/
+163,Maryland,Hanover,ARUNDEL MILLS,Gap Factory Store,"7000 Arundel Mills Circle Space #212a,Hanover, MD 21076-1371",https://www.gap.com/stores/md/hanover/
+164,Maryland,National Harbor,NATIONAL HARBOR,Gap Factory Store,"6800 Oxon Hill Rd Suite 180,National Harbor, MD 20745",https://www.gap.com/stores/md/nationalharbor/
+165,Maryland,Queenstown,QUEENSTOWN PREMIUM,Gap Factory Store,"424 Outlet Center Dr ,Queenstown, MD 21658",https://www.gap.com/stores/md/queenstown/
+166,Maryland,Rockville,PIKE & ROSE,"1969,Gap,babyGap,GapKids,GapBody","11820 Grand Park Ave Unit 1104,Rockville, MD 20852",https://www.gap.com/stores/md/rockville/
+167,Maryland,Towson,TOWSON T/C,"Gap,babyGap,GapKids,GapBody","825 Dulaney Valley Rd 381,Towson, MD 21204",https://www.gap.com/stores/md/towson/
+168,Massachusetts,Boston,Mktpl - Faneuil Hall,"Gap,babyGap,GapKids,GapBody","200 State St ,Boston, MA 02109",https://www.gap.com/stores/ma/boston/
+169,Massachusetts,Boston,DOWNTOWN CROSSING,Gap Factory Store,"411 Washington Street ,Boston, MA 02108",https://www.gap.com/stores/ma/boston/
+170,Massachusetts,Braintree,SOUTH SHORE PLAZA,"Gap,babyGap,GapKids","250 Granite Street Space #2025,Braintree, MA 02184",https://www.gap.com/stores/ma/braintree/
+171,Massachusetts,Cambridge,HARVARD SQ - BOSTON,"Gap,GapKids,GapBody","15 Brattle Street ,Cambridge, MA 02138",https://www.gap.com/stores/ma/cambridge/
+172,Massachusetts,Dedham,LEGACY PLACE,Gap,"950 Providence Highway ,Dedham, MA 02026",https://www.gap.com/stores/ma/dedham/
+173,Massachusetts,Everett,GATEWAY PLAZA,Gap Factory Store,"10 Mystic View Rd ,Everett, MA 02149",https://www.gap.com/stores/ma/everett/
+174,Massachusetts,Hingham,DERBY ST SHOPS,"Gap,babyGap,GapKids,GapBody","94 Derby St Ste 229,Hingham, MA 02043-4202",https://www.gap.com/stores/ma/hingham/
+175,Massachusetts,Holyoke,HOLYOKE MALL,Gap Factory Store,"50 Holyoke Street E277,Holyoke, MA 01040-2709",https://www.gap.com/stores/ma/holyoke/
+176,Massachusetts,Lee,LEE PREMIUM,Gap Factory Store,"600 Premium Outlets Blvd Space L640,Lee, MA 01238",https://www.gap.com/stores/ma/lee/
+177,Massachusetts,Longmeadow,LONGMEADOW SHOPS,"Gap,GapKids,GapBody","690 Bliss Road ,Longmeadow, MA 01106",https://www.gap.com/stores/ma/longmeadow/
+178,Massachusetts,Lynnfield,MKTSTREET LYNNFIELD,"Gap,babyGap,GapKids","900 Market Street ,Lynnfield, MA 01940",https://www.gap.com/stores/ma/lynnfield/
+179,Massachusetts,Natick,NATICK MALL,"Gap,babyGap,GapKids,GapBody","1245 Worcester Road 1174,Natick, MA 01760",https://www.gap.com/stores/ma/natick/
+180,Massachusetts,Peabody,NORTHSHORE - MA,"Gap,babyGap,GapKids,GapBody","210 Andover Street W163,Peabody, MA 01960",https://www.gap.com/stores/ma/peabody/
+181,Massachusetts,Swampscott,VINNIN SQUARE,"Gap,GapKids,GapBody","450 Paradise Road ,Swampscott, MA 01907",https://www.gap.com/stores/ma/swampscott/
+182,Massachusetts,Worcester,LINCOLN PLAZA,Gap Factory Store,"537 Lincoln Street #5,Worcester, MA 01605",https://www.gap.com/stores/ma/worcester/
+183,Massachusetts,Wrentham,WRENTHAM VILLAGE,Gap Factory Store,"1 Premium Outlet Blvd #310,Wrentham, MA 02093-1570",https://www.gap.com/stores/ma/wrentham/
+184,Massachusetts,Wrentham,WRENTHAM VILLAGE,Gap Factory Store,"1 Premium Outlet Blvd Ste 360,Wrentham, MA 02093",https://www.gap.com/stores/ma/wrentham/
+185,Michigan,Auburn Hills,GREAT LAKES CROSSING,Gap Factory Store,"4742 Baldwin Road ,Auburn Hills, MI 48326",https://www.gap.com/stores/mi/auburnhills/
+186,Michigan,Birch Run,BIRCH RUN PREM OUTLT,Gap Factory Store,"12205 Market Place Dr Space H60,Birch Run, MI 48415",https://www.gap.com/stores/mi/birchrun/
+187,Michigan,Byron Center,GRAND RAPIDS TANGER,Gap Factory Store,"350 84th Street Suite 680,Byron Center, MI 49315",https://www.gap.com/stores/mi/byroncenter/
+188,Michigan,Howell,HOWELL (KENSINGTON),Gap Factory Store,"1475 Burkhart Rd Ste H-150,Howell, MI 48855-7245",https://www.gap.com/stores/mi/howell/
+189,Michigan,Lansing,EASTWOOD T/C,"Gap,GapKids","3000 Towne Centre Blvd ,Lansing, MI 48912-5616",https://www.gap.com/stores/mi/lansing/
+190,Michigan,Novi,TWELVE OAKS,"Gap,babyGap,GapKids,GapBody","27482 Novi Road C-243,Novi, MI 48377",https://www.gap.com/stores/mi/novi/
+191,Michigan,Troy,SOMERSET COLLECTION,"Gap,babyGap,GapKids","2800 West Big Beaver Rd Suite X355,Troy, MI 48084",https://www.gap.com/stores/mi/troy/
+192,Minnesota,Albertville,ALBERTVILLE PREMIUM,Gap Factory Store,"6415 Labeaux Ave Ne Space B180,Albertville, MN 55301-3841",https://www.gap.com/stores/mn/albertville/
+193,Minnesota,Albertville,ALBERTVILLE PREMIUM,Gap Factory Store,"6415 Labeaus Ave Ne Space A280,Albertville, MN 55301",https://www.gap.com/stores/mn/albertville/
+194,Minnesota,Eagan,TWIN CITIES EAGAN,Gap Factory Store,"3985 Eagan Outlets Parkway Building 500, #545,Eagan, MN 55122",https://www.gap.com/stores/mn/eagan/
+195,Minnesota,Edina,SOUTHDALE CENTER,"Gap,babyGap,GapKids,GapBody","1795 Southdale Center ,Edina, MN 55435-7060",https://www.gap.com/stores/mn/edina/
+196,Minnesota,Maple Grove,ARBOR LAKES (3206),"Gap,babyGap,GapKids","12129 Elm Creek Blvd. C14,Maple Grove, MN 55369",https://www.gap.com/stores/mn/maplegrove/
+197,Minnesota,Minnetonka,Ridgedale Center,"Gap,babyGap,GapKids,GapBody","12325 Wayzata Blvd Ste 1235,Minnetonka, MN 55305",https://www.gap.com/stores/mn/minnetonka/
+198,Minnesota,Woodbury,WOODBURY LAKES,"Gap,babyGap,GapKids,GapBody","9000 Hudson Rd ,Woodbury, MN 55125",https://www.gap.com/stores/mn/woodbury/
+199,Mississippi,Gulfport,GULFPORT PREMIUM,Gap Factory Store,"10400 Factory Shops Blvd ,Gulfport, MS 39503-4242",https://www.gap.com/stores/ms/gulfport/
+200,Mississippi,Pearl,OUTLT OF MISSISSIPPI,Gap Factory Store,"200 Bass Pro Drive ,Pearl, MS 39208",https://www.gap.com/stores/ms/pearl/
+201,Mississippi,Southaven,TANGER OUTLT MEMPHIS,Gap Factory Store,"5205 Airways Blvd Suite #950,Southaven, MS 38671",https://www.gap.com/stores/ms/southaven/
+202,Missouri,Branson,BRANSON TANGER,Gap Factory Store,"300 Tanger Blvd Suite 510,Branson, MO 65616",https://www.gap.com/stores/mo/branson/
+203,Missouri,Chesterfield,ST. LOUIS PREMIUM,Gap Factory Store,"18511 Outlet Blvd Space 860,Chesterfield, MO 63005",https://www.gap.com/stores/mo/chesterfield/
+204,Missouri,Richmond Heights,ST LOUIS GALLERIA,"Gap,babyGap,GapKids,GapBody","1178 Saint Louis Galleria Ste 1176,Richmond Heights, MO 63117-1150",https://www.gap.com/stores/mo/richmondheights/
+205,Missouri,St Louis,WEST COUNTY CTR,"1969,Gap,babyGap,GapKids,GapBody","62 West County Center ,St Louis, MO 63131",https://www.gap.com/stores/mo/stlouis/
+206,Nebraska,Gretna,Nebraska Crossing,Gap Factory Store,"21323 Nebraska Crossing Dr G101,Gretna, NE 68028",https://www.gap.com/stores/ne/gretna/
+207,Nebraska,Omaha,VILLAGE POINTE S/C,"Gap,babyGap,GapKids,GapBody","17304 Davenport Street ,Omaha, NE 68118",https://www.gap.com/stores/ne/omaha/
+208,Nevada,Las Vegas,LAS VEGAS PREM-SOUTH,Gap Factory Store,"7400 Las Vegas Blvd. South ,Las Vegas, NV 89123",https://www.gap.com/stores/nv/lasvegas/
+209,Nevada,Las Vegas,DOWNTOWN SUMMERLIN,"Gap,babyGap,GapKids,GapBody","1820 Festival Plaza Drive Suite 120,Las Vegas, NV 89135",https://www.gap.com/stores/nv/lasvegas/
+210,Nevada,Las Vegas,LAS VEGAS PREM-NORTH,Gap Factory Store,"795 S. Grand Central Parkway Suite 2287,Las Vegas, NV 89106",https://www.gap.com/stores/nv/lasvegas/
+211,Nevada,Sparks,SPARKS MARINA LEGEND,Gap Factory Store,"1350 Scheels Drive Unit 162,Sparks, NV 89434",https://www.gap.com/stores/nv/sparks/
+212,New Hampshire,Merrimack,MERRIMACK PREMIUM,Gap Factory Store,"80 Premium Outlets Blvd Suite #299,Merrimack, NH 03054",https://www.gap.com/stores/nh/merrimack/
+213,New Hampshire,North Conway,SETTLERS GREEN,Gap Factory Store,"13 Settler's Green Space E-10,North Conway, NH 03860",https://www.gap.com/stores/nh/northconway/
+214,New Hampshire,Salem,ROCKINGHAM PARK,"Gap,babyGap,GapKids,GapBody","99 Rockingham Park Blv ,Salem, NH 03079",https://www.gap.com/stores/nh/salem/
+215,New Hampshire,Tilton,TILTON TANGER,Gap Factory Store,"120 Laconia Rd Ste 102,Tilton, NH 03276",https://www.gap.com/stores/nh/tilton/
+216,New Hampshire,West Lebanon,UPPER VALLEY PLAZA,Gap Factory Store,"250 Plainfield Rd ,West Lebanon, NH 03784",https://www.gap.com/stores/nh/westlebanon/
+217,New Jersey,Atlantic City,ATLANTIC CITY TANGER,Gap Factory Store,"102 N Michigan Avenue 260,Atlantic City, NJ 08401-4119",https://www.gap.com/stores/nj/atlanticcity/
+218,New Jersey,Blackwood,GLOUCESTER PREMIUM,Gap Factory Store,"100 Premium Outlets Drive Ste 660,Blackwood, NJ 08012-3870",https://www.gap.com/stores/nj/blackwood/
+219,New Jersey,Bridgewater,Somerset S/C,Gap Factory Store,"395 Us-202 ,Bridgewater, NJ 08807",https://www.gap.com/stores/nj/bridgewater/
+220,New Jersey,Cherry Hill,TOWNE PLACE @ GSPARK,"Gap,babyGap,GapKids,GapBody","941 Haddonfield Road Ste A-3,Cherry Hill, NJ 08002-2731",https://www.gap.com/stores/nj/cherryhill/
+221,New Jersey,Chester,STREETS OF CHESTER,"Gap,babyGap,GapKids","300 Us Hwy 206 ,Chester, NJ 07930-2008",https://www.gap.com/stores/nj/chester/
+222,New Jersey,Chester,Athleta,,"270 Us-206 Chester, Nj 07930 United States ,Chester, NJ 07930",https://www.gap.com/stores/nj/chester/
+223,New Jersey,Denville,SHOPPES @ UNION HILL,"Gap,babyGap,GapKids,GapBody","3056 State Route 10 Ste M,Denville, NJ 07834-3423",https://www.gap.com/stores/nj/denville/
+224,New Jersey,Edgewater,CITYPL@THE PROMENADE,"Gap,babyGap,GapKids","25 Promenade A-5,Edgewater, NJ 07020",https://www.gap.com/stores/nj/edgewater/
+225,New Jersey,Elizabeth,JERSEY GARDENS,Gap Factory Store,"651 Kapkowski Road Space #260,Elizabeth, NJ 07201",https://www.gap.com/stores/nj/elizabeth/
+226,New Jersey,Jackson,JACKSON PREMIUM,Gap Factory Store,"537 Monmouth Rd Ste 100,Jackson, NJ 08527-5363",https://www.gap.com/stores/nj/jackson/
+227,New Jersey,Newark,NEWARK - MARKET ST,Gap Factory Store,"141 Market Street ,Newark, NJ 07102-2810",https://www.gap.com/stores/nj/newark/
+228,New Jersey,North Bergen,COLUMBIA PARK CENTER,Gap Factory Store,"3111 Kennedy Blvd ,North Bergen, NJ 07047-2379",https://www.gap.com/stores/nj/northbergen/
+229,New Jersey,Paramus,GARDEN STATE PLAZA,"Gap,babyGap,GapKids,GapBody","1 Garden State Plaza Space L1/l4,Paramus, NJ 07652",https://www.gap.com/stores/nj/paramus/
+230,New Jersey,Paramus,BERGEN TC OUTLETS,Gap Factory Store,"640 Bergen Town Center Space 30,Paramus, NJ 07652",https://www.gap.com/stores/nj/paramus/
+231,New Jersey,Princeton,PRINCETON MARKETFAIR,"Gap,babyGap,GapKids,GapBody","3535 Us Highway 1 Suite 116,Princeton, NJ 08540-5901",https://www.gap.com/stores/nj/princeton/
+232,New Jersey,Sea Girt,BROOK 35 PLAZA,"Gap,GapKids,GapBody","2150 Highway 35 D-1,Sea Girt, NJ 08750",https://www.gap.com/stores/nj/seagirt/
+233,New Jersey,Short Hills,SHORT HILLS MALL,"Gap,babyGap,GapKids","1200 Morris Turnpike D-123,Short Hills, NJ 07078-2746",https://www.gap.com/stores/nj/shorthills/
+234,New Jersey,Shrewsbury,GROVE (THE),"1969,Gap,babyGap,GapKids,GapBody","591 Broad St ,Shrewsbury, NJ 07702-4150",https://www.gap.com/stores/nj/shrewsbury/
+235,New Jersey,Tinton Falls,JERSEY SHORE PREMIUM,Gap Factory Store,"One Premium Outlets Blvd Ste 599,Tinton Falls, NJ 07753",https://www.gap.com/stores/nj/tintonfalls/
+236,New Jersey,Watchung,WATCHUNG SQUARE,Gap Factory Store,"1515 Us Highway Rt 22 ,Watchung, NJ 07069-6516",https://www.gap.com/stores/nj/watchung/
+237,New Jersey,Wayne,WILLOWBROOK - NJ,"Gap,babyGap,GapKids,GapBody","1400 Willowbrook Mall Ste 1104,Wayne, NJ 07470-6905",https://www.gap.com/stores/nj/wayne/
+238,New Jersey,Westfield,E BROAD ST-WESTFLD,"Gap,babyGap,GapKids,GapBody","207 East Broad Street ,Westfield, NJ 07090-2119",https://www.gap.com/stores/nj/westfield/
+239,New Jersey,Woodcliff Lake,TICE'S CORNER,"Gap,GapKids,GapBody","423 Chestnut Ridge Road Ste #10,Woodcliff Lake, NJ 07677-7679",https://www.gap.com/stores/nj/woodclifflake/
+240,New Mexico,Albuquerque,ABQ UPTOWN,"Gap,babyGap,GapKids,GapBody","2240 Q Street Ne Suite 10q,Albuquerque, NM 87110",https://www.gap.com/stores/nm/albuquerque/
+241,New York,Albany,Crossgates Mall,"Gap,babyGap,GapKids,GapBody","1 Crossgates Mall Rd A107,Albany, NY 12203",https://www.gap.com/stores/ny/albany/
+242,New York,Astoria,STEINWAY ST-ASTORIA,Gap Factory Store,"31-48 Steinway Street ,Astoria, NY 11103",https://www.gap.com/stores/ny/astoria/
+243,New York,Bellport,BELLPORT OUTLET CNT,Gap Factory Store,"10 Farber Drive Space 75,Bellport, NY 11713",https://www.gap.com/stores/ny/bellport/
+244,New York,Bridgehampton,BRIDGEHAMPTON,"Gap,babyGap,GapKids,GapBody","2044 Montauk Highway Ste 1,Bridgehampton, NY 11932",https://www.gap.com/stores/ny/bridgehampton/
+245,New York,Brooklyn,GATEWAY II,Gap Factory Store,"528 Gateway Drive ,Brooklyn, NY 11239",https://www.gap.com/stores/ny/brooklyn/
+246,New York,Brooklyn,BAY RIDGE,Gap Factory Store,"423 86th Street ,Brooklyn, NY 11209",https://www.gap.com/stores/ny/brooklyn/
+247,New York,Brooklyn,FLATBUSH,Gap Factory Store,"1016 Flatbush Ave ,Brooklyn, NY 11226",https://www.gap.com/stores/ny/brooklyn/
+248,New York,Brooklyn,FULTON STREET MALL,Gap Factory Store,"400 Fulton Street ,Brooklyn, NY 11201",https://www.gap.com/stores/ny/brooklyn/
+249,New York,Brooklyn,86th St - Bensonhurst,Gap Factory Store,"2101 86th Street Suite 2109,Brooklyn, NY 11214",https://www.gap.com/stores/ny/brooklyn/
+250,New York,Central Valley,Woodbury Commons,Gap Factory Store,"470 Dune Rd ,Central Valley, NY 10917",https://www.gap.com/stores/ny/centralvalley/
+251,New York,Cheektowaga,WALDEN GALLERIA,"Gap,babyGap,GapKids,GapBody","1 Galleria Dr L212,Cheektowaga, NY 14225-5134",https://www.gap.com/stores/ny/cheektowaga/
+252,New York,Deer Park,Tanger Deer Park,Gap Factory Store,"701 The Arches Circle ,Deer Park, NY 11729",https://www.gap.com/stores/ny/deerpark/
+253,New York,Elmhurst,QUEENS CENTER,"Gap,babyGap,GapKids,GapBody","90-15 Queens Blvd H407,Elmhurst, NY 11373",https://www.gap.com/stores/ny/elmhurst/
+254,New York,Forest Hills,FOREST HILLS,Gap Factory Store,"6939 Austin Street ,Forest Hills, NY 11375",https://www.gap.com/stores/ny/foresthills/
+255,New York,Garden City,GALLERY@WESTBURY PLZ,Gap Factory Store,"1060a Old Country Road ,Garden City, NY 11530",https://www.gap.com/stores/ny/gardencity/
+256,New York,Garden City,ROOSEVELT FIELD,"Gap,babyGap,GapKids,GapBody","630 Old Country Road Ste #1130,Garden City, NY 11530-3402",https://www.gap.com/stores/ny/gardencity/
+257,New York,Huntington Station,WALT WHITMAN SHOPS,"Gap,babyGap,GapKids,GapBody","160 Walt Whitman Road Suite 1100,Huntington Station, NY 11746",https://www.gap.com/stores/ny/huntingtonstation/
+258,New York,Lake George,FRENCH MTN COMMONS,Gap Factory Store,"1439 State Route 9 Ste 11,Lake George, NY 12845",https://www.gap.com/stores/ny/lakegeorge/
+259,New York,Larchmont,POST ROAD-LARCHMONT,"Gap,GapKids,GapBody","1340 Boston Post Rd ,Larchmont, NY 10538",https://www.gap.com/stores/ny/larchmont/
+260,New York,Merrick,MERRICK S/C,"1969,Gap,babyGap,GapKids,GapBody","1970 Merrick Rd ,Merrick, NY 11566",https://www.gap.com/stores/ny/merrick/
+261,New York,Middletown,ORANGE PLAZA,Gap Factory Store,"470 Route 211 East Suite #15/16,Middletown, NY 10940",https://www.gap.com/stores/ny/middletown/
+262,New York,Mt  Kisco,S MOGER AVE-MT KISCO,"Gap,babyGap,GapKids,GapBody","65 South Moger ,Mt  Kisco, NY 10549",https://www.gap.com/stores/ny/mtkisco/
+263,New York,Nanuet,THE SHOPS AT NANUET,"Gap,babyGap,GapKids,GapBody","6121 Fashion Drive ,Nanuet, NY 10954",https://www.gap.com/stores/ny/nanuet/
+264,New York,New York,LINCOLN SQUARE - NY,"1969,Gap,babyGap,GapKids,GapBody","1988 Broadway ,New York, NY 10023",https://www.gap.com/stores/ny/newyork/
+265,New York,New York,GWB MARKETPLACE-NY,Gap Factory Store,"4211 Broadway Ste W1.1,New York, NY 10033",https://www.gap.com/stores/ny/newyork/
+266,New York,New York,TIMES SQUARE,"Gap,babyGap,GapKids,GapBody","1514 Broadway ,New York, NY 10036",https://www.gap.com/stores/ny/newyork/
+267,New York,New York,85TH & 3RD - NY,"Gap,babyGap,GapKids,GapBody","1511 3rd Ave ,New York, NY 10028",https://www.gap.com/stores/ny/newyork/
+268,New York,New York,42ND & 3RD - NY,"Gap,babyGap,GapKids,GapBody","657 3rd Ave ,New York, NY 10017-5605",https://www.gap.com/stores/ny/newyork/
+269,New York,New York,264 W. 125TH STREET,Gap Factory Store,"264 W 125th Street ,New York, NY 10027",https://www.gap.com/stores/ny/newyork/
+270,New York,New York,55 THOMAS SHOWRM,,"55 Thomas Street ,New York, NY 10013",https://www.gap.com/stores/ny/newyork/
+271,New York,New York,Flatiron -20th & 5th,"Gap,GapBody","156 5th Ave ,New York, NY 10010",https://www.gap.com/stores/ny/newyork/
+272,New York,New York,BROADWAY & MAIDEN,Gap Factory Store,"172 Broadway ,New York, NY 10038",https://www.gap.com/stores/ny/newyork/
+273,New York,Niagara Falls,NIAGARA FALLS,Gap Factory Store,"1970 Military Rd ,Niagara Falls, NY 14304",https://www.gap.com/stores/ny/niagarafalls/
+274,New York,Niskayuna,MOHAWK COMMONS,Gap Factory Store,"400 Balltown Road Space 6b,Niskayuna, NY 12304",https://www.gap.com/stores/ny/niskayuna/
+275,New York,Oceanside,"Sands, The",Gap Factory Store,"3501 Long Beach Road ,Oceanside, NY 11572",https://www.gap.com/stores/ny/oceanside/
+276,New York,Plainview,Woodbury Plaza,Gap Factory Store,"403 South Oyster Bay Road ,Plainview, NY 11803",https://www.gap.com/stores/ny/plainview/
+277,New York,Queens,82ND ST JACKSON HGHT,Gap Factory Store,"37-32 82nd Street ,Queens, NY 11372",https://www.gap.com/stores/ny/queens/
+278,New York,Riverhead,RIVERHEAD TANGER,Gap Factory Store,"1770 West Main Street Suite 1101,Riverhead, NY 11901",https://www.gap.com/stores/ny/riverhead/
+279,New York,Saratoga Springs,CONGRESS PARK CENTRE,"Gap,GapKids,GapBody","341 Broadway ,Saratoga Springs, NY 12866",https://www.gap.com/stores/ny/saratogasprings/
+280,New York,Scarsdale,VERNON HILLS,"Gap,babyGap,GapKids,GapBody","700 Post Road ,Scarsdale, NY 10583-5063",https://www.gap.com/stores/ny/scarsdale/
+281,New York,Staten Island,EMPIRE OUTLETS,Gap Factory Store,"55 Richmond Terrace Space 307-311,Staten Island, NY 10301",https://www.gap.com/stores/ny/statenisland/
+282,New York,The Bronx,MALL AT BAY PLAZA,"Gap,babyGap,GapKids","200 Baychester Ave Suite 216,The Bronx, NY 10475",https://www.gap.com/stores/ny/thebronx/
+283,New York,The Bronx,SHOPS @ BRUCKNER BLV,Gap Factory Store,"845 White Plains ,The Bronx, NY 10473",https://www.gap.com/stores/ny/thebronx/
+284,New York,The Bronx,FORDHAM ROAD-BRONX,Gap Factory Store,"271 E. Fordham Road ,The Bronx, NY 10458",https://www.gap.com/stores/ny/thebronx/
+285,New York,Vestal,TOWN SQUARE MALL,Gap Factory Store,"2505 Vestal Parkway East ,Vestal, NY 13850",https://www.gap.com/stores/ny/vestal/
+286,New York,Victor,EASTVIEW,"Gap,babyGap,GapKids,GapBody","216 Eastview Mall .,Victor, NY 14564-1009",https://www.gap.com/stores/ny/victor/
+287,New York,West Nyack,PALISADES CENTER,"Gap,GapKids,GapBody","2520 Palisades Center Drive Space F206a,West Nyack, NY 10994",https://www.gap.com/stores/ny/westnyack/
+288,New York,Yonkers,CROSS COUNTY S/C,"Gap,babyGap,GapKids,GapBody","33 Mall Walk Ste 33,35,37,Yonkers, NY 10704-1201",https://www.gap.com/stores/ny/yonkers/
+289,New York,Yonkers,RIDGE HILL,"Gap,babyGap,GapKids,GapBody","199 Market Street ,Yonkers, NY 10710",https://www.gap.com/stores/ny/yonkers/
+290,North Carolina,Asheville,ASHEVILLE OUTLETS,Gap Factory Store,"800 Brevard Road Ste 364,Asheville, NC 28806",https://www.gap.com/stores/nc/asheville/
+291,North Carolina,Blowing Rock,SHOPPES ON THE PARKWAY,Gap Factory Store,"200 Shoppes On The Parkway Rd Ste 57,Blowing Rock, NC 28605",https://www.gap.com/stores/nc/blowingrock/
+292,North Carolina,Charlotte,CHARLOTTE PREM OUTLT,Gap Factory Store,"5416 New Fashion Way Suite 870,Charlotte, NC 28278",https://www.gap.com/stores/nc/charlotte/
+293,North Carolina,Charlotte,SOUTHPARK S/C - NC,"Gap,babyGap,GapKids","4400 Sharon Road #g-14a,Charlotte, NC 28211-3531",https://www.gap.com/stores/nc/charlotte/
+294,North Carolina,Charlotte,ARBORETUM (THE) - NC,"Gap,babyGap,GapKids,GapBody","8022 Providence Road Ste 900,Charlotte, NC 28277-9755",https://www.gap.com/stores/nc/charlotte/
+295,North Carolina,Durham,STREETS @ SOUTHPOINT,"Gap,babyGap,GapKids,GapBody","6910 Fayetteville Rd Suite #255,Durham, NC 27713",https://www.gap.com/stores/nc/durham/
+296,North Carolina,Mebane,MEBANE TANGER,Gap Factory Store,"4000 Arrowhead Road Suite 290,Mebane, NC 27302",https://www.gap.com/stores/nc/mebane/
+297,North Carolina,Nags Head,NAGS HEAD,Gap Factory Store,"7100 South Croatan Highway Space #8,Nags Head, NC 27959",https://www.gap.com/stores/nc/nagshead/
+298,North Carolina,Raleigh,CRABTREE VALLEY,"Gap,GapKids,GapBody","4325 Glenwood Avenue Suite 1060 - 252,Raleigh, NC 27612",https://www.gap.com/stores/nc/raleigh/
+299,North Carolina,Smithfield,CAROLINA PREMIUM,Gap Factory Store,"1025 Outlet Center Drive Ste #720,Smithfield, NC 27577",https://www.gap.com/stores/nc/smithfield/
+300,North Carolina,Wilmington,MAYFAIRE TOWN CENTER,"Gap,babyGap,GapKids","6842 Main Street ,Wilmington, NC 28405",https://www.gap.com/stores/nc/wilmington/
+301,North Carolina,Winston Salem,HANES,"Gap,babyGap,GapKids,GapBody","3320 Silas Creek Parkway Ste #8832,Winston Salem, NC 27103-3031",https://www.gap.com/stores/nc/winstonsalem/
+302,Ohio,Aurora,AURORA PREMIUM,Gap Factory Store,"549 So. Chillicothe Road Space #0440,Aurora, OH 44202",https://www.gap.com/stores/oh/aurora/
+303,Ohio,Cincinnati,ROOKWOOD COMMONS,"1969,Gap,babyGap,GapKids,GapBody","2659 Edmondson Road Space No. A9,Cincinnati, OH 45209",https://www.gap.com/stores/oh/cincinnati/
+304,Ohio,Columbus,EASTON T/C,"Gap,babyGap,GapKids","4000 Easton Station C-112,Columbus, OH 43219-6080",https://www.gap.com/stores/oh/columbus/
+305,Ohio,Monroe,CINCINNATI PREMIUM,Gap Factory Store,"131 Premium Outlets Drive ,Monroe, OH 45050",https://www.gap.com/stores/oh/monroe/
+306,Ohio,Sunbury,COLUMBUS TANGER,Gap Factory Store,"400 South Wilson Road Suite 280,Sunbury, OH 43074",https://www.gap.com/stores/oh/sunbury/
+307,Ohio,Westlake,CROCKER PARK,"Gap,babyGap,GapKids,GapBody","206 Market Street ,Westlake, OH 44145",https://www.gap.com/stores/oh/westlake/
+308,Oklahoma,Oklahoma City,PENN SQUARE,"Gap,babyGap,GapKids,GapBody","1901 Nw Expressway St 1094,Oklahoma City, OK 73118",https://www.gap.com/stores/ok/oklahomacity/
+309,Oklahoma,Oklahoma City,OKLAHOMA CITY F/S,Gap Factory Store,"7630 West Reno Avenue Suite 200,Oklahoma City, OK 73127",https://www.gap.com/stores/ok/oklahomacity/
+310,Oklahoma,Tulsa,WOODLAND HILLS,"Gap,babyGap,GapKids,GapBody","7021 South Memorial Drive 210e,Tulsa, OK 74133",https://www.gap.com/stores/ok/tulsa/
+311,Oklahoma,Tulsa,UTICA SQUARE,"Gap,babyGap,GapKids","1934 Utica Square ,Tulsa, OK 74114",https://www.gap.com/stores/ok/tulsa/
+312,Oregon,Bend,OLD MILL DISTRICT,"Gap,GapKids,GapBody","545 Sw Powerhouse Dr 909,Bend, OR 97702-1293",https://www.gap.com/stores/or/bend/
+313,Oregon,Hillsboro,Streets Tanasbourne,"Gap,babyGap,GapKids,GapBody","10010 Ne Emma Way Space 210-230,Hillsboro, OR 97124-9004",https://www.gap.com/stores/or/hillsboro/
+314,Oregon,Tigard,BRIDGEPORT VILLAGE,"Gap,babyGap,GapKids,GapBody","7393 Sw Bridgeport Road ,Tigard, OR 97224",https://www.gap.com/stores/or/tigard/
+315,Oregon,Troutdale,COLUMBIA GORGE,Gap Factory Store,"450 Nw 257th Ave Ste 470,Troutdale, OR 97060-8506",https://www.gap.com/stores/or/troutdale/
+316,Oregon,Woodburn,WOODBURN PREM OUTLTS,Gap Factory Store,"1001 N Arney Rd Ste 104,Woodburn, OR 97071",https://www.gap.com/stores/or/woodburn/
+317,Pennsylvania,Ardmore,Suburban Square,"Gap,GapKids","100 Coulter Ave #117,Ardmore, PA 19003",https://www.gap.com/stores/pa/ardmore/
+318,Pennsylvania,Ardmore,SUBURBAN SQUARE,"Gap,GapKids","84 Coulter Avenue Ste 84,Ardmore, PA 19003",https://www.gap.com/stores/pa/ardmore/
+319,Pennsylvania,Doylestown,S MAIN ST-DOYLESTOWN,"Gap,GapKids,GapBody","17 S Main Street #137,Doylestown, PA 18901-4607",https://www.gap.com/stores/pa/doylestown/
+320,Pennsylvania,Glen Mills,GLEN EAGLE SQUARE,"Gap,babyGap,GapKids","605 Wilmington Westchester Pike ,Glen Mills, PA 19342",https://www.gap.com/stores/pa/glenmills/
+321,Pennsylvania,Hershey,OUTLET AT HERSHEY,Gap Factory Store,"39 Outlet Square ,Hershey, PA 17033",https://www.gap.com/stores/pa/hershey/
+322,Pennsylvania,King Of Prussia,PLZ@ KING OF PRUSSIA,"Gap,babyGap,GapKids","160 N Gulph Road Suite 1914,King Of Prussia, PA 19406",https://www.gap.com/stores/pa/kingofprussia/
+323,Pennsylvania,King Of Prussia,CT @ KING OF PRUSSIA,"Gap,GapBody","350 Mall Blvd Suite #3090, Space C223,King Of Prussia, PA 19406",https://www.gap.com/stores/pa/kingofprussia/
+324,Pennsylvania,Lancaster,LANCASTER TANGER,Gap Factory Store,"1002 Stanley K Tanger Blvd Ste 1002,Lancaster, PA 17602-6203",https://www.gap.com/stores/pa/lancaster/
+325,Pennsylvania,Newtown,NEWTOWN S/C,"Gap,GapKids","60 West Road #a-e,Newtown, PA 18940",https://www.gap.com/stores/pa/newtown/
+326,Pennsylvania,Philadelphia,COTTMAN & BUSTLETON,Gap Factory Store,"2123-25 Cottman Avenue Space #40 & 41,Philadelphia, PA 19149",https://www.gap.com/stores/pa/philadelphia/
+327,Pennsylvania,Philadelphia,PHILADELPHIA MILLS,Gap Factory Store,"1875 Franklin Mills Circle Space No 163,Philadelphia, PA 19154",https://www.gap.com/stores/pa/philadelphia/
+328,Pennsylvania,Pittsburgh,WALNUT ST-SHADYSIDE,"Gap,babyGap,GapKids,GapBody","5436  Walnut St. ,Pittsburgh, PA 15232",https://www.gap.com/stores/pa/pittsburgh/
+329,Pennsylvania,Pittsburgh,ROSS PARK,"Gap,babyGap,GapKids,GapBody","1000 Ross Park Mall Drive Space #e08b,Pittsburgh, PA 15237",https://www.gap.com/stores/pa/pittsburgh/
+330,Pennsylvania,Plymouth Meeting,METROPLEX,Gap Factory Store,"2510 Chemical Road #s-12b,Plymouth Meeting, PA 19462",https://www.gap.com/stores/pa/plymouthmeeting/
+331,Pennsylvania,Pottstown,Philadelphia Premium,Gap Factory Store,"18 West Lightcap Road Ste 801,Pottstown, PA 19464",https://www.gap.com/stores/pa/pottstown/
+332,Pennsylvania,Tannersville,Pocono Prem Outlets,Gap Factory Store,"1000 Premium Outlets Drive Suite G208,Tannersville, PA 18372",https://www.gap.com/stores/pa/tannersville/
+333,Pennsylvania,Upper Darby,69TH ST -UPPER DARBY,Gap Factory Store,"40 South 69th Street ,Upper Darby, PA 19082",https://www.gap.com/stores/pa/upperdarby/
+334,Pennsylvania,Washington,PITTSBURGH TANGER,Gap Factory Store,"2200 Tanger Blvd Suite 640,Washington, PA 15301",https://www.gap.com/stores/pa/washington/
+335,Pennsylvania,Whitehall,LEHIGH VALLEY,"Gap,babyGap,GapKids","140 Lehigh Valley Mall E-1, 2,Whitehall, PA 18052",https://www.gap.com/stores/pa/whitehall/
+336,Pennsylvania,Willow Grove,Willow Grove Park,Gap Factory Store,"2500 W Moreland Rd Ste 2041,Willow Grove, PA 19090",https://www.gap.com/stores/pa/willowgrove/
+337,Rhode Island,Cranston,GARDEN CITY CENTER,"Gap,babyGap,GapKids,GapBody","79 Hillside Road ,Cranston, RI 02920",https://www.gap.com/stores/ri/cranston/
+338,Rhode Island,Newport,LONG WHARF,"Gap,babyGap,GapKids","4-8 Long Wharf Mall South ,Newport, RI 02840",https://www.gap.com/stores/ri/newport/
+339,South Carolina,Bluffton,HILTON HEAD TANGER,Gap Factory Store,"1414 Fording Island Rd Space A100,Bluffton, SC 29910",https://www.gap.com/stores/sc/bluffton/
+340,South Carolina,Greenville,HAYWOOD,"1969,Gap,babyGap,GapKids","700 Haywood Road Space #2043,Greenville, SC 29607",https://www.gap.com/stores/sc/greenville/
+341,South Carolina,Mt Pleasant,MT PLEASANT T/C,"Gap,GapKids,GapBody","1229 Belk Drive Space #h1,Mt Pleasant, SC 29464",https://www.gap.com/stores/sc/mtpleasant/
+342,South Carolina,Myrtle Beach,MYRTLE BEACH,Gap Factory Store,"4635 Factory Stores Blvd. ,Myrtle Beach, SC 29579",https://www.gap.com/stores/sc/myrtlebeach/
+343,South Carolina,Myrtle Beach,MYRTLE BEACH TANGER,Gap Factory Store,"10847 Kings Rd 160,Myrtle Beach, SC 29572-6076",https://www.gap.com/stores/sc/myrtlebeach/
+344,South Carolina,North Charleston,CHARLESTON TANGER,Gap Factory Store,"4810 Tanger Outlet Boulevard Suite 111,North Charleston, SC 29418",https://www.gap.com/stores/sc/northcharleston/
+345,Tennessee,Knoxville,WEST TOWN - TN,"Gap,GapBody","7600 Kingston Pike Ste #1102,Knoxville, TN 37919",https://www.gap.com/stores/tn/knoxville/
+346,Tennessee,Nashville,GREEN HILLS,"Gap,babyGap,GapKids,GapBody","2126 Abbott Martin Road Space #236,Nashville, TN 37215",https://www.gap.com/stores/tn/nashville/
+347,Tennessee,Nashville,OPRY MILLS,Gap Factory Store,"202 Opry Mills Dr Ste 662,Nashville, TN 37214-2435",https://www.gap.com/stores/tn/nashville/
+348,Tennessee,Sevierville,TANGER SEVIERVILLE,Gap Factory Store,"1645 Parkway Suite 520,Sevierville, TN 37862-2898",https://www.gap.com/stores/tn/sevierville/
+349,Texas,Allen,ALLEN PREMIUM - Kids,Gap Factory Store,"820 West Stacy Road Ste 475,Allen, TX 75013-4809",https://www.gap.com/stores/tx/allen/
+350,Texas,Allen,ALLEN PREMIUM,Gap Factory Store,"820 West Stacy Road Ste 450,Allen, TX 75013-4813",https://www.gap.com/stores/tx/allen/
+351,Texas,Austin,BARTON CREEK,"Gap,babyGap,GapKids,GapBody","2901 S Capital Of Texas Hwy Space J07a,Austin, TX 78746",https://www.gap.com/stores/tx/austin/
+352,Texas,Austin,CENTRAL PARK S/C,"Gap,babyGap,GapKids,GapBody","4001 N Lamar Blvd ,Austin, TX 78756",https://www.gap.com/stores/tx/austin/
+353,Texas,Canutillo,OUTLT SHOP @ EL PASO,Gap Factory Store,"7051 South Desert Blvd Ste G790,Canutillo, TX 79835",https://www.gap.com/stores/tx/canutillo/
+354,Texas,Cypress,HOUSTON PREMIUM,Gap Factory Store,"29300 Highway 290 ,Cypress, TX 77433",https://www.gap.com/stores/tx/cypress/
+355,Texas,Dallas,DALLAS GALLERIA,"Gap,babyGap,GapKids,GapBody","13250 Dallas Parkway Ste 2222,Dallas, TX 75240",https://www.gap.com/stores/tx/dallas/
+356,Texas,Dallas,INWOOD VILLAGE,"Gap,babyGap,GapKids","5350 W Lovers Lane 120,Dallas, TX 75209",https://www.gap.com/stores/tx/dallas/
+357,Texas,El Paso,CIELO VISTA,"Gap,babyGap,GapKids,GapBody","8401 Gateway Blvd W E13a,El Paso, TX 79925-6105",https://www.gap.com/stores/tx/elpaso/
+358,Texas,Fort Worth,FORT WORTH TANGER,Gap Factory Store,"15801 North Freeway Suite 780,Fort Worth, TX 76177",https://www.gap.com/stores/tx/fortworth/
+359,Texas,Fort Worth,UNIVERSITY PARK VILL,"Gap,GapKids,GapBody","1540 South University Drive Ste 105,Fort Worth, TX 76107",https://www.gap.com/stores/tx/fortworth/
+360,Texas,Frisco,STONEBRIAR,"Gap,babyGap,GapKids,GapBody","2601 Preston Road Ste 2082,Frisco, TX 75034",https://www.gap.com/stores/tx/frisco/
+361,Texas,Grand Prairie,GRAND PRAIRIE PRIME,Gap Factory Store,"2950 W Interstate 20 Space 800,Grand Prairie, TX 75052",https://www.gap.com/stores/tx/grandprairie/
+362,Texas,Grapevine,GRAPEVINE MILLS,Gap Factory Store,"3000 Grapevine Mills Parkway ,Grapevine, TX 76051",https://www.gap.com/stores/tx/grapevine/
+363,Texas,Houston,HOUSTON GALLERIA,"Gap,babyGap,GapKids,GapBody","5085 Westheimer Road #2695,Houston, TX 77056-5676",https://www.gap.com/stores/tx/houston/
+364,Texas,Houston,MEMORIAL CITY,"Gap,babyGap,GapKids,GapBody","900 Gessner Road Ste 360,Houston, TX 77024-2505",https://www.gap.com/stores/tx/houston/
+365,Texas,Houston,TOWN & COUNTRY VILL,"Gap,babyGap,GapKids,GapBody","12850 Memorial Drive Suite 1303, Space 13-a103,Houston, TX 77024",https://www.gap.com/stores/tx/houston/
+366,Texas,Hurst,NORTHEAST,"Gap,babyGap,GapKids,GapBody","1101 Melbourne Road ,Hurst, TX 76053",https://www.gap.com/stores/tx/hurst/
+367,Texas,Katy,KATY MILLS,Gap Factory Store,"5000 Katy Mills Cir Ste 611,Katy, TX 77494-4418",https://www.gap.com/stores/tx/katy/
+368,Texas,Laredo,OUTLT SHOP @ LAREDO,Gap Factory Store,"1500 Water Street Suite A595,Laredo, TX 78040",https://www.gap.com/stores/tx/laredo/
+369,Texas,Lubbock,PROMENADE @ WEST END,Gap Factory Store,"2910 W. Loop 289 Suite 505,Lubbock, TX 79407",https://www.gap.com/stores/tx/lubbock/
+370,Texas,Mcallen,LA PLAZA,"Gap,babyGap,GapKids,GapBody","2200 South 10th Street Space #f6c,Mcallen, TX 78503",https://www.gap.com/stores/tx/mcallen/
+371,Texas,Mcallen,LA PLAZA,"Gap,babyGap","2200 South 10th Street Space F12,Mcallen, TX 78503",https://www.gap.com/stores/tx/mcallen/
+372,Texas,Mercedes,RIO GRANDE VALLEY,Gap Factory Store,"5001 E. Expressway 83 Suite 700,Mercedes, TX 78570",https://www.gap.com/stores/tx/mercedes/
+373,Texas,Plano,PRESTON PARK VILLAGE,"Gap,babyGap,GapKids,GapBody","1900 Preston Road 291,Plano, TX 75093",https://www.gap.com/stores/tx/plano/
+374,Texas,Round Rock,ROUND ROCK PREMIUM,Gap Factory Store,"4401 North Interstate Highgway 35 Suite 109,Round Rock, TX 78664",https://www.gap.com/stores/tx/roundrock/
+375,Texas,San Antonio,QUARRY CROSSING,"Gap,babyGap,GapKids,GapBody","7322 Jones Maltsberger Road Ste #114,San Antonio, TX 78209",https://www.gap.com/stores/tx/sanantonio/
+376,Texas,San Marcos,SAN MARCOS PREMIUM,Gap Factory Store,"3939 Ih-35 South Suite 201a,San Marcos, TX 78666",https://www.gap.com/stores/tx/sanmarcos/
+377,Texas,Terrell,Shops at Terrell,Gap Factory Store,"301 Tanger Drive Ste 215,Terrell, TX 75160",https://www.gap.com/stores/tx/terrell/
+378,Texas,Texas City,Houston Tanger - Out,Gap Factory Store,"5885 Gulf Freeway Ste 440,Texas City, TX 77591",https://www.gap.com/stores/tx/texascity/
+379,Utah,Lehi,TRAVERSE MOUNTAIN,Gap Factory Store,"3700 Cabela Blvd ,Lehi, UT 84043",https://www.gap.com/stores/ut/lehi/
+380,Utah,Murray,FASHION PLACE,"Gap,babyGap,GapKids","6191 So State St ,Murray, UT 84107",https://www.gap.com/stores/ut/murray/
+381,Utah,Orem,UNIVERSITY - UT,"Gap,babyGap,GapKids,GapMaternity,GapBody","575 E University Parkway Space N235,Orem, UT 84097",https://www.gap.com/stores/ut/orem/
+382,Utah,Park City,PARK CITY,Gap Factory Store,"6699 Landmark Dr ,Park City, UT 84098",https://www.gap.com/stores/ut/parkcity/
+383,Utah,Salt Lake City,CITY CREEK,"Gap,babyGap,GapKids,GapBody","50 South Main Street Space #172,Salt Lake City, UT 84101",https://www.gap.com/stores/ut/saltlakecity/
+384,Vermont,Manchester,BATTENKILL PLAZA,Gap Factory Store,"4733 Main Street ,Manchester, VT 05254",https://www.gap.com/stores/vt/manchester/
+385,Virginia,Leesburg,LEESBURG PREMIUM,Gap Factory Store,"241 Fort Evans Road Ne Ste 601,Leesburg, VA 20176",https://www.gap.com/stores/va/leesburg/
+386,Virginia,Norfolk,NORFOLK PREMIUM,Gap Factory Store,"1600 Premium Outlets Boulevard Suite 500,Norfolk, VA 23502",https://www.gap.com/stores/va/norfolk/
+387,Virginia,Prince William,POTOMAC MILLS,Gap Factory Store,"2700 Potomac Mills Cir Ste 318,Prince William, VA 22192-4654",https://www.gap.com/stores/va/princewilliam/
+388,Virginia,Richmond,SHORT PUMP,"Gap,babyGap,GapKids,GapBody","11800 West Broad Street Suite 1600,Richmond, VA 23233",https://www.gap.com/stores/va/richmond/
+389,Virginia,Tysons,TYSONS CORNER CENTER,"Gap,babyGap,GapKids,GapBody","7906la Tyson's Corner Center E9u,Tysons, VA 22102",https://www.gap.com/stores/va/tysons/
+390,Virginia,Williamsburg,WILLIAMSBURG PREMIUM,Gap Factory Store,"5715 Richmond Road ,Williamsburg, VA 23188",https://www.gap.com/stores/va/williamsburg/
+391,Washington,Auburn,OUTLT COLLCT SEATTLE,Gap Factory Store,"1101 Outlet Collection Dr Sw Ste 1373,Auburn, WA 98001-6532",https://www.gap.com/stores/wa/auburn/
+392,Washington,Bellevue,BELLEVUE SQUARE - WA,"Gap,babyGap,GapKids","183 Bellevue Square 183,Bellevue, WA 98004-5021",https://www.gap.com/stores/wa/bellevue/
+393,Washington,Centralia,CENTRALIA OUTLETS,Gap Factory Store,"124 W. High St. ,Centralia, WA 98531",https://www.gap.com/stores/wa/centralia/
+394,Washington,North Bend,NORTH BEND,Gap Factory Store,"521 South Fork Ave Sw Suite- L,North Bend, WA 98045",https://www.gap.com/stores/wa/northbend/
+395,Washington,Redmond,REDMOND TOWN CENTER,"Gap,GapKids","7430 164th Ave Ne B115,Redmond, WA 98052-7802",https://www.gap.com/stores/wa/redmond/
+396,Washington,Seattle,UNIVERSITY VILLAGE,"Gap,babyGap,GapKids,GapBody","4625 27th Ave Ne Ste #23,Seattle, WA 98105",https://www.gap.com/stores/wa/seattle/
+397,Washington,Spokane,RIVERPARK SQUARE,"Gap,babyGap,GapKids,GapBody","808 W Main Ave Ste 231,Spokane, WA 99201",https://www.gap.com/stores/wa/spokane/
+398,Washington,Tulalip,SEATTLE PREMIUM,Gap Factory Store,"10600 Quil Ceda Boulevard Suite 200,Tulalip, WA 98271",https://www.gap.com/stores/wa/tulalip/
+399,Wisconsin,Baraboo,WISCONSIN DELLS,Gap Factory Store,"210 Gasser Road ,Baraboo, WI 53913",https://www.gap.com/stores/wi/baraboo/
+400,Wisconsin,Glendale,BAYSHORE - WI,"Gap,GapKids,GapBody","401 W North Shore Drive #a-22,Glendale, WI 53217",https://www.gap.com/stores/wi/glendale/
+401,Wisconsin,Johnson Creek,JOHNSON CREEK,Gap Factory Store,"575 Linmar Lane A170,Johnson Creek, WI 53038-9552",https://www.gap.com/stores/wi/johnsoncreek/
+402,Wisconsin,Oshkosh,OSHKOSH,Gap Factory Store,"3001 S Washburn Street ,Oshkosh, WI 54904",https://www.gap.com/stores/wi/oshkosh/
+403,Wisconsin,Pleasant Prairie,PLEASANT PRAIRIE PRE,Gap Factory Store,"11211 120th Avenue Space 66,Pleasant Prairie, WI 53158-1710",https://www.gap.com/stores/wi/pleasantprairie/
+404,Wisconsin,Wauwatosa,MAYFAIR - WI,"Gap,babyGap,GapKids,GapBody","2500 North Mayfair Rd 172,Wauwatosa, WI 53226",https://www.gap.com/stores/wi/wauwatosa/
+405,Puerto Rico,Barceloneta,PUERTO RICO PREMIUM,Gap Factory Store,"1 Premium Outlets Blvd Ste 165,Barceloneta, PR 00617",https://www.gap.com/stores/pr/barceloneta/
+406,Puerto Rico,San Juan,OUT AT MONTEHIEDRA,Gap Factory Store,"9410 Los Romero Street Spaces 1270 & 1280,San Juan, PR 00926",https://www.gap.com/stores/pr/sanjuan/
+407,Puerto Rico,San Juan,MALL OF SAN JUAN,"Gap,babyGap,GapKids","1000 Mall Of San Juan Blvd Ste 165,San Juan, PR 00924",https://www.gap.com/stores/pr/sanjuan/
